@@ -1,5 +1,5 @@
 #include "mbed.h"
 #include "USBMouse.h"
-//USB mouse demo using a 5-way Navigation Switch (Digital Joystick)
-//Needs USB connector breakout with D+, D-, and Gnd to mbed LLP1768
-USBMouse mouse;
+#include "mbed2/309/TARGET_LPC1768/TARGET_NXP/TARGET_LPC176X/TARGET_MBED_LPC1768/PinNames.h"
+
+// YOU CODE HERE
